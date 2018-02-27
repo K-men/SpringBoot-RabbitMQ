@@ -5,7 +5,7 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by liwei on 17/3/12.
+ * Created by wch on 17/3/12.
  */
 @Component
 public class Receiver {
